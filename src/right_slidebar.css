@@ -1,0 +1,18 @@
+.right_main_container{
+    /* border:2px solid red; */
+    background-color: rgb(255, 255, 255) ;
+    border-radius: 14px;
+    height:80%;
+    width:90%;
+    /* box-shadow: -1px 0px 13px 0px rgb(145, 147, 145); */
+    margin:12px 40px;
+}
+.right_main_container:hover{
+    box-shadow: -1px 0px 13px 0px rgb(145, 147, 145);
+}
+.viewchat{
+    flex:1;
+    
+    border: 2px solid rgb(37, 30, 30);
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-8b585fb4a5c9fedbb899cfb0cf0331a7-lq&imgrefurl=https%3A%2F%2Fwww.quora.com%2FWhat-should-be-the-perfect-wallpaper-for-WhatsApp&tbnid=KaMYICdgk7GEUM&vet=12ahUKEwjbs--6z4T4AhUtgmMGHXKBAWgQMygFegUIARDZAQ..i&docid=ZDHl7SCKKLSI4M&w=602&h=953&q=whatsapp%20background%20images&ved=2ahUKEwjbs--6z4T4AhUtgmMGHXKBAWgQMygFegUIARDZAQ');
+}
